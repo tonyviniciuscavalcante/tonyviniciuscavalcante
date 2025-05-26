@@ -40,12 +40,6 @@ Atualmente atuo como Analista de Suporte Técnico Sênior na [alt.bank](https://
 ![DataGrip](https://img.shields.io/badge/DataGrip-143?style=for-the-badge&logo=DataGrip&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Cursor](https://img.shields.io/badge/Cursor-143?style=for-the-badge&logo=Cursor&logoColor=black&color=black&labelColor=green)&nbsp;
 
-
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
-
-
 ## Me encontre:
 
 <p align = "center">
