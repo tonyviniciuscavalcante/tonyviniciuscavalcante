@@ -63,39 +63,6 @@ Atualmente atuo como Analista de Suporte Técnico Sênior na [alt.bank](https://
 ![Cursor](https://img.shields.io/badge/-CursorIDE-143?logo=Cursor&logoColor=black&color=black&labelColor=green)
 ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tonyviniciuscavalcante&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyviniciuscavalcante&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyviniciuscavalcante&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🌐 Redes Sociais
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tonyviniciuscavalcante)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonycavalcante/)
-
----
-
-## 🏆 Conquistas
-
-- **Seguidores no GitHub:** [![GitHub Followers](https://img.shields.io/github/followers/tonyviniciuscavalcante?label=Follow&style=social)](https://github.com/tonyviniciuscavalcante)
-- **Projetos em destaque:** Confira meus repositórios e veja o que estou desenvolvendo!
-
----
-
-## 📬 Vamos nos conectar?
-
-Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnologia, IA ou desenvolvimento, me mande uma mensagem. Estou sempre aberto a boas conexões e desafios!
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:cubetubeone@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonycavalcante/)
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=tonyviniciuscavalcante)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake.svg">
