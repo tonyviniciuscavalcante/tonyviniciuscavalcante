@@ -44,14 +44,14 @@ Atualmente atuo como Analista de Suporte Técnico Sênior na [alt.bank](https://
 #### Tools e Technologies
 
 ![Git](https://img.shields.io/badge/-GIT-E44C30?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-github-23121011?logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-github_copilot-8957E5?logo=github-copilot&logoColor=white)
-![GitLab](https://img.shields.io/badge/-gitlab-23181717?logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-23121011?logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-Github_Copilot-8957E5?logo=github-copilot&logoColor=white)
+![GitLab](https://img.shields.io/badge/-Gitlab-23181717?logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-003545?logo=firebase&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-23Clojure?logo=swagger&logoColor=white)
-![Sentry](https://img.shields.io/badge/-sentry-23362D59?logo=sentry&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-google%20gemini-8E75B2?logo=google%20gemini&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-23362D59?logo=sentry&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?logo=google%20gemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-234285F4?logo=google-cloud&logoColor=white)
 
 
