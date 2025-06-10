@@ -1,8 +1,7 @@
 # Olá! 👋 Me chamo Tony Vinicius
 
-### Desenvolvedor Full Stack | Entusiasta de Inteligência Artificial | Baseado no Brasil
+### Desenvolvedor Full Stack | Entusiasta de Inteligência Artificial Generativa
 
-🌍 **Localização:** Brasil  
 📫 **Contato:** [cubetubeone@gmail.com](mailto:cubetubeone@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/tonycavalcante](https://www.linkedin.com/in/tonycavalcante/)  
 🧠 **Atualmente estudando:** Análise e Desenvolvimento de Sistemas & Inteligência Artificial Generativa  
